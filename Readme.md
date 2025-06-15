@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Chandrabhan Maurya
+# Hi there! 👋 I'm Shreyansh Jain
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -8,11 +8,11 @@
 
 I'm a passionate **Full Stack Developer** with expertise in modern web technologies. I love building scalable applications and contributing to open-source projects. Currently focused on creating efficient, user-friendly solutions that make a difference.
 
-- 🔭 I'm currently working on **innovative web applications**
-- 🌱 I'm currently learning **Cloud Technologies & DevOps**
+- 🔭 I'm currently working on **Zidio Development**
+- 🌱 I'm currently learning **Full Stack Developer**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, Spring Boot, or anything tech-related**
-- 📫 How to reach me: **shreyanshjain1206@gmail.com**
+- 📫 How to reach me: **shreyanshjainwork12@gmail.com**
 - ⚡ Fun fact: **I debug code better with coffee! ☕**
 
 ## 🛠️ Tech Stack
@@ -20,26 +20,26 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
 
 ### Backend
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
 
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -61,7 +61,7 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-Mars&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshJain105&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ## 🔥 Current Projects
