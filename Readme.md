@@ -12,7 +12,7 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 - 🌱 I'm currently learning **Cloud Technologies & DevOps**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, Spring Boot, or anything tech-related**
-- 📫 How to reach me: **chandra82001@gmail.com**
+- 📫 How to reach me: **shreyanshjain1206@gmail.com**
 - ⚡ Fun fact: **I debug code better with coffee! ☕**
 
 ## 🛠️ Tech Stack
@@ -74,20 +74,20 @@ I'm a passionate **Full Stack Developer** with expertise in modern web technolog
 ## 💼 Professional Experience
 
 ```javascript
-const chandrabhan = {
+const ShreyanshJain = {
     pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "Java", "C++", "Python"],
+    code: ["JavaScript", "TypeScript", "Java", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "problem solving"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular"],
+            js: ["React"],
             css: ["Bootstrap", "Tailwind", "Material-UI"]
         },
         backEnd: {
             java: ["Spring", "Spring Boot"],
-            js: ["Node.js", "Express"]
+            js: ["Node.js"]
         },
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
+        databases: ["MySQL", "MongoDB"],
         misc: ["Docker", "AWS", "Git", "REST APIs"]
     },
     currentFocus: "Building scalable web applications and contributing to open source",
@@ -104,9 +104,9 @@ const chandrabhan = {
 </div>
 
 **Current LeetCode Stats:**
-- 🔥 Problems Solved: **[Your Number]**
-- 📊 Contest Rating: **[Your Rating]**
-- 🏆 Global Ranking: **[Your Ranking]**
+- 🔥 Problems Solved
+- 📊 Contest Rating
+- 🏆 Global Ranking
 
 ## 🤝 Let's Connect!
 
