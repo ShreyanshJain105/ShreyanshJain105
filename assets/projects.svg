@@ -1,1 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="325" viewBox="0 0 1200 325"><title>Featured GitHub repositories and open-source forks</title><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#111c32"/></linearGradient><linearGradient id="ac"><stop stop-color="#54d6ff"/><stop offset="1" stop-color="#9b8cff"/></linearGradient></defs><rect x="1" y="1" width="1198" height="323" rx="18" fill="url(#bg)" stroke="#263750"/><circle cx="1172" cy="27" r="5" fill="#54d6ff"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/></circle><text x="30" y="44" font-family="monospace" font-size="14" font-weight="700" fill="#7ddcff">SELECTED BUILDS / OPEN-SOURCE REPOSITORIES</text><a href="https://github.com/ShreyanshJain105/cravebite-frontend" target="_blank"><rect x="30" y="72" width="355" height="94" rx="13" fill="#111f34" stroke="#2d4562"/><text x="47" y="99" font-family="Arial" font-size="19" font-weight="700" fill="#f4f7fb">CraveBite</text><text x="47" y="121" font-family="Arial" font-size="11" fill="#b5c4d8">Food ordering app • frontend + backend</text><text x="47" y="141" font-family="monospace" font-size="10" fill="#71d7ff">JavaScript</text><text x="47" y="157" font-family="monospace" font-size="9" fill="#9b8cff">PROJECT ↗</text></a><a href="https://github.com/ShreyanshJain105/JobTrek-UI" target="_blank"><rect x="415" y="72" width="355" height="94" rx="13" fill="#111f34" stroke="#2d4562"/><text x="432" y="99" font-family="Arial" font-size="19" font-weight="700" fill="#f4f7fb">JobTrek</text><text x="432" y="121" font-family="Arial" font-size="11" fill="#b5c4d8">Job portal • React UI + Spring Boot API</text><text x="432" y="141" font-family="monospace" font-size="10" fill="#71d7ff">TypeScript</text><text x="432" y="157" font-family="monospace" font-size="9" fill="#9b8cff">PROJECT ↗</text></a><a href="https://github.com/ShreyanshJain105/rea" target="_blank"><rect x="800" y="72" width="355" height="94" rx="13" fill="#111f34" stroke="#2d4562"/><text x="817" y="99" font-family="Arial" font-size="19" font-weight="700" fill="#f4f7fb">rea</text><text x="817" y="121" font-family="Arial" font-size="11" fill="#b5c4d8">Agent-based reverse engineering • fork</text><text x="817" y="141" font-family="monospace" font-size="10" fill="#71d7ff">TypeScript</text><text x="817" y="157" font-family="monospace" font-size="9" fill="#9b8cff">FORKED REPOSITORY ↗</text></a><a href="https://github.com/ShreyanshJain105/coolify" target="_blank"><rect x="30" y="184" width="355" height="94" rx="13" fill="#111f34" stroke="#2d4562"/><text x="47" y="211" font-family="Arial" font-size="19" font-weight="700" fill="#f4f7fb">coolify</text><text x="47" y="233" font-family="Arial" font-size="11" fill="#b5c4d8">Self-hostable PaaS • fork</text><text x="47" y="253" font-family="monospace" font-size="10" fill="#71d7ff">Project</text><text x="47" y="269" font-family="monospace" font-size="9" fill="#9b8cff">FORKED REPOSITORY ↗</text></a><a href="https://github.com/ShreyanshJain105/ruflo" target="_blank"><rect x="415" y="184" width="355" height="94" rx="13" fill="#111f34" stroke="#2d4562"/><text x="432" y="211" font-family="Arial" font-size="19" font-weight="700" fill="#f4f7fb">ruflo</text><text x="432" y="233" font-family="Arial" font-size="11" fill="#b5c4d8">Claude multi-agent orchestration • fork</text><text x="432" y="253" font-family="monospace" font-size="10" fill="#71d7ff">Project</text><text x="432" y="269" font-family="monospace" font-size="9" fill="#9b8cff">FORKED REPOSITORY ↗</text></a><text x="30" y="310" font-family="monospace" font-size="10" font-weight="400" fill="#8296b0">Forks are labelled transparently; original project ownership is not implied.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="335" viewBox="0 0 1200 335">
+<title>Featured Enterprise Systems and Open-Source Architectures</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#060a12"/>
+    <stop offset="50%" stop-color="#0b1324"/>
+    <stop offset="100%" stop-color="#101c36"/>
+  </linearGradient>
+  <linearGradient id="panelBg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#091222"/>
+    <stop offset="100%" stop-color="#0d1b33"/>
+  </linearGradient>
+  <linearGradient id="borderGlow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8"/>
+    <stop offset="50%" stop-color="#1e3a5f" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#6366f1" stop-opacity="0.75"/>
+  </linearGradient>
+  <linearGradient id="cyanGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="100%" stop-color="#0284c7"/>
+  </linearGradient>
+  <linearGradient id="emeraldGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#34d399"/>
+    <stop offset="100%" stop-color="#059669"/>
+  </linearGradient>
+  <linearGradient id="violetGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#a78bfa"/>
+    <stop offset="100%" stop-color="#6366f1"/>
+  </linearGradient>
+  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="100%" stop-color="#818cf8"/>
+  </linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#172844" stroke-width="0.6" stroke-opacity="0.32"/>
+  </pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="333" rx="14" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="333" rx="14" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="333" rx="14" fill="none" stroke="url(#borderGlow)" stroke-width="1.2"/><rect x="956" y="18" width="220" height="26" rx="6" fill="#091426" stroke="#1e3a5f" stroke-width="1"/><circle cx="970" cy="31" r="4" fill="#10b981"/><circle cx="970" cy="31" r="8" fill="none" stroke="#10b981" opacity="0.6"><animate attributeName="r" values="4;10;4" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.4s" repeatCount="indefinite"/></circle><text x="984" y="35" font-family="monospace" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="1">SYSTEM : PROD_ONLINE</text><rect x="30" y="22" width="370" height="22" rx="4" fill="#0c192e" stroke="#1e3a5f" stroke-width="0.8"/><text x="40" y="37" font-family="monospace" font-size="10.5" font-weight="700" fill="#7dd3fc">FEATURED ENTERPRISE SYSTEMS &amp; OPEN-SOURCE ARCHITECTURES</text><a href="https://github.com/ShreyanshJain105/cravebite-frontend" target="_blank">
+          <rect x="30" y="68" width="365" height="98" rx="10" fill="#0c182c" stroke="#1f3757" stroke-width="1"/>
+          <text x="46" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="800" fill="#f8fafc">CraveBite</text>
+          <text x="46" y="116" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" fill="#94a3b8">Distributed food ordering platform • REST APIs</text>
+          <rect x="46" y="130" width="95" height="18" rx="4" fill="#08101e"/>
+          <text x="52" y="143" font-family="monospace" font-size="9" font-weight="700" fill="#38bdf8">JavaScript</text>
+          <text x="150" y="143" font-family="monospace" font-size="8.5" font-weight="700" fill="#38bdf8">ENTERPRISE BUILD ↗</text>
+        </a><a href="https://github.com/ShreyanshJain105/JobTrek-UI" target="_blank">
+          <rect x="415" y="68" width="365" height="98" rx="10" fill="#0c182c" stroke="#1f3757" stroke-width="1"/>
+          <text x="431" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="800" fill="#f8fafc">JobTrek</text>
+          <text x="431" y="116" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" fill="#94a3b8">Enterprise recruitment portal • React + Spring Boot</text>
+          <rect x="431" y="130" width="95" height="18" rx="4" fill="#08101e"/>
+          <text x="437" y="143" font-family="monospace" font-size="9" font-weight="700" fill="#38bdf8">TypeScript</text>
+          <text x="535" y="143" font-family="monospace" font-size="8.5" font-weight="700" fill="#38bdf8">ENTERPRISE BUILD ↗</text>
+        </a><a href="https://github.com/ShreyanshJain105/coolify" target="_blank">
+          <rect x="800" y="68" width="365" height="98" rx="10" fill="#0c182c" stroke="#1f3757" stroke-width="1"/>
+          <text x="816" y="94" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="800" fill="#f8fafc">coolify</text>
+          <text x="816" y="116" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" fill="#94a3b8">Self-hosted PaaS &amp; Cloud Container Engine</text>
+          <rect x="816" y="130" width="95" height="18" rx="4" fill="#08101e"/>
+          <text x="822" y="143" font-family="monospace" font-size="9" font-weight="700" fill="#38bdf8">PHP / PaaS Engine</text>
+          <text x="920" y="143" font-family="monospace" font-size="8.5" font-weight="700" fill="#a78bfa">OPEN-SOURCE // FORK ↗</text>
+        </a><a href="https://github.com/ShreyanshJain105/rea" target="_blank">
+          <rect x="30" y="186" width="365" height="98" rx="10" fill="#0c182c" stroke="#1f3757" stroke-width="1"/>
+          <text x="46" y="212" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="800" fill="#f8fafc">rea</text>
+          <text x="46" y="234" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" fill="#94a3b8">Agent-based reverse engineering &amp; binary analysis</text>
+          <rect x="46" y="248" width="95" height="18" rx="4" fill="#08101e"/>
+          <text x="52" y="261" font-family="monospace" font-size="9" font-weight="700" fill="#38bdf8">TypeScript</text>
+          <text x="150" y="261" font-family="monospace" font-size="8.5" font-weight="700" fill="#a78bfa">OPEN-SOURCE // FORK ↗</text>
+        </a><a href="https://github.com/ShreyanshJain105/ruflo" target="_blank">
+          <rect x="415" y="186" width="365" height="98" rx="10" fill="#0c182c" stroke="#1f3757" stroke-width="1"/>
+          <text x="431" y="212" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="17" font-weight="800" fill="#f8fafc">ruflo</text>
+          <text x="431" y="234" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" fill="#94a3b8">Claude multi-agent orchestration architecture</text>
+          <rect x="431" y="248" width="95" height="18" rx="4" fill="#08101e"/>
+          <text x="437" y="261" font-family="monospace" font-size="9" font-weight="700" fill="#38bdf8">Python / AI Agents</text>
+          <text x="535" y="261" font-family="monospace" font-size="8.5" font-weight="700" fill="#a78bfa">OPEN-SOURCE // FORK ↗</text>
+        </a><text x="30" y="318" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="10" font-weight="400" fill="#64748b">Open-source repositories represent technical exploration and architectural analysis; forks are transparently identified.</text>
+</svg>

@@ -1,1 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="390" height="150" viewBox="0 0 390 150"><title>BUILD</title><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#111c32"/></linearGradient><linearGradient id="ac"><stop stop-color="#54d6ff"/><stop offset="1" stop-color="#9b8cff"/></linearGradient></defs><rect x="1" y="1" width="388" height="148" rx="18" fill="url(#bg)" stroke="#263750"/><circle cx="362" cy="27" r="5" fill="#54d6ff"><animate attributeName="opacity" values=".3;1;.3" dur="2.4s" repeatCount="indefinite"/></circle><text x="26" y="64" font-family="Arial" font-size="29" font-weight="800" fill="#54d6ff">01</text><text x="82" y="61" font-family="Arial" font-size="23" font-weight="800" fill="#f4f7fb">BUILD</text><text x="27" y="105" font-family="monospace" font-size="13" font-weight="400" fill="#b5c4d8">Java • Spring Boot • React • APIs</text><path d="M26 124h330" stroke="#54d6ff" stroke-width="2"><animate attributeName="stroke-dasharray" values="0 330;330 0" dur="4s" repeatCount="indefinite"/></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="385" height="155" viewBox="0 0 385 155">
+<title>ARCHITECTURE</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#060a12"/>
+    <stop offset="50%" stop-color="#0b1324"/>
+    <stop offset="100%" stop-color="#101c36"/>
+  </linearGradient>
+  <linearGradient id="panelBg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#091222"/>
+    <stop offset="100%" stop-color="#0d1b33"/>
+  </linearGradient>
+  <linearGradient id="borderGlow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8"/>
+    <stop offset="50%" stop-color="#1e3a5f" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#6366f1" stop-opacity="0.75"/>
+  </linearGradient>
+  <linearGradient id="cyanGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="100%" stop-color="#0284c7"/>
+  </linearGradient>
+  <linearGradient id="emeraldGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#34d399"/>
+    <stop offset="100%" stop-color="#059669"/>
+  </linearGradient>
+  <linearGradient id="violetGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#a78bfa"/>
+    <stop offset="100%" stop-color="#6366f1"/>
+  </linearGradient>
+  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="100%" stop-color="#818cf8"/>
+  </linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#172844" stroke-width="0.6" stroke-opacity="0.32"/>
+  </pattern>
+</defs>
+<rect x="1" y="1" width="383" height="153" rx="14" fill="url(#bg)"/><rect x="1" y="1" width="383" height="153" rx="14" fill="url(#grid)"/><rect x="1" y="1" width="383" height="153" rx="14" fill="none" stroke="url(#borderGlow)" stroke-width="1.2"/><circle cx="361" cy="28" r="3.5" fill="#10b981"/><circle cx="361" cy="28" r="7" fill="none" stroke="#10b981" opacity="0.6"><animate attributeName="r" values="3.5;8;3.5" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.4s" repeatCount="indefinite"/></circle><rect x="20" y="20" width="38" height="38" rx="8" fill="#0b172a" stroke="#38bdf8" stroke-opacity="0.5" stroke-width="1.2"/><text x="29" y="45" font-family="monospace" font-size="18" font-weight="800" fill="#38bdf8">01</text><text x="68" y="36" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="800" fill="#f8fafc">ARCHITECTURE</text><text x="68" y="52" font-family="monospace" font-size="9.5" font-weight="700" fill="#38bdf8">ENTERPRISE CORE</text><text x="20" y="88" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#94a3b8">Java • Spring Boot • Microservices • REST APIs</text><path d="M20 128 h345" stroke="#38bdf8" stroke-width="1.5" stroke-opacity="0.3"/>
+    <path d="M20 128 h345" stroke="#38bdf8" stroke-width="2" stroke-dasharray="30 200">
+      <animate attributeName="stroke-dashoffset" values="230;0" dur="3s" repeatCount="indefinite"/>
+    </path>
+</svg>

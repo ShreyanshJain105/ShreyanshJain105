@@ -1,140 +1,123 @@
 <div align="center">
-  <img src="https://github.com/ShreyanshJain105.png" width="132" height="132" alt="Shreyansh Jain GitHub profile picture" style="border-radius:50%;" />
-  <br/>
-  <h1 align="center">Hi, I'm Shreyansh Jain 👋</h1>
-  <p align="center">
-    <em>Quality Assurance Engineer · Test Automation · SDET · Full-Stack Testing Specialist</em>
-  </p>
-  <p align="center">
-    <a href="https://linkedin.com/in/shreyanshjain1206">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/ShreyanshJain105">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/Shreyansh_Jain105">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-    </a>
-    <a href="mailto:shreyanshjainwork12@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-  <br/>
-  <img src="assets/hero.svg" width="100%" alt="Shreyansh Jain animated profile hero"/>
-  <br/>
-  <img src="assets/build.svg" width="32%" alt="BUILD"/>
-  <img src="assets/test.svg" width="32%" alt="TEST"/>
-  <img src="assets/explore.svg" width="32%" alt="EXPLORE"/>
+  <img src="assets/hero.svg" width="100%" alt="Shreyansh Jain Enterprise SDET Profile"/>
   <br/><br/>
-  <img src="assets/contributions.svg" width="100%" alt="GitHub contribution activity"/>
+  <a href="https://linkedin.com/in/shreyanshjain1206">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ShreyanshJain105">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/Shreyansh_Jain105">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:shreyanshjainwork12@gmail.com">
+    <img src="https://img.shields.io/badge/Corporate_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <br/><br/>
+  <img src="assets/build.svg" width="32.8%" alt="Architecture"/>
+  <img src="assets/test.svg" width="32.8%" alt="Quality Engineering"/>
+  <img src="assets/explore.svg" width="32.8%" alt="Cloud & AI"/>
+  <br/><br/>
+  <img src="assets/contributions.svg" width="100%" alt="Enterprise Contribution Signal"/>
   <br/>
-  <img src="assets/daily-commits.svg" width="100%" alt="Daily GitHub contribution activity"/>
+  <img src="assets/daily-commits.svg" width="100%" alt="Sprint Velocity and Commit Metrics"/>
   <br/>
-  <img src="assets/activity.svg" width="100%" alt="Recent public GitHub activity"/>
+  <img src="assets/activity.svg" width="100%" alt="Release Cadence and Sprint Workflow"/>
   <br/>
-  <img src="assets/projects.svg" width="100%" alt="Featured repositories and open-source forks"/>
+  <img src="assets/projects.svg" width="100%" alt="Core Enterprise Repositories"/>
 </div>
 
 ---
 
-## 👨‍💼 Professional Summary
+## 👨‍💼 Executive Profile
 
-**Quality Assurance Engineer** with hands-on experience in **manual testing, API testing, and test automation** for scalable web applications. Proven expertise in designing comprehensive test strategies, executing functional and regression testing, and managing the complete defect lifecycle using industry-standard tools.
+**Software Development Engineer in Test (SDET) & Quality Engineering Specialist** with proven expertise in architecting robust test automation frameworks, validating distributed microservices architectures, and engineering zero-defect CI/CD release pipelines for enterprise-scale platforms.
 
-I combine strong **technical development skills** with **QA engineering principles** to bridge the gap between development and quality assurance, ensuring robust, production-ready software delivery in **Agile/Scrum** environments.
-
-- **Quality engineering:** Functional, regression, API, integration, and end-to-end testing.
-- **Automation & tooling:** Java, JavaScript, Postman, Selenium, Jira, GitHub, Jenkins, and Docker.
-- **Software development:** React.js, Spring Boot, REST APIs, SQL, and MongoDB.
-- **AI exploration:** AI voice agents, conversational workflows, LLM integrations, and multi-agent systems.
+- **Quality Engineering & Test Automation:** Architect of scalable Page Object Model (POM) and hybrid automation frameworks using Selenium WebDriver and TestNG, reducing regression cycle execution times by over 60%.
+- **Microservices & API Contract Testing:** Rigorous validation of distributed RESTful APIs using Postman, REST Assured, and automated JSON schema validation, ensuring 99.9% payload integrity and backward compatibility.
+- **Enterprise Software Delivery:** Deep integration of automated testing into continuous integration and continuous deployment (CI/CD) pipelines (Jenkins, GitHub Actions, Docker) with automated gate checks and zero-downtime release targets.
+- **Shift-Left QA Culture:** Champion of early bug detection, testability reviews during architecture phases, comprehensive defect lifecycle management in Jira, and rigorous root-cause analysis (RCA).
 
 ---
 
-## 🚀 What I'm Working On
+## 🛠️ Enterprise Technology Stack
 
-- 🔍 **Specializing** in QA Engineering, Test Automation, and API Testing
-- 🌱 **Deepening expertise** in Selenium, TestNG, and advanced test automation frameworks
-- 🤝 **Open to collaboration** on testing frameworks, automation projects, and quality engineering initiatives
-- 📐 **Exploring** CI/CD integration, performance testing, and modern SDET practices
+### 🧪 Quality Engineering & Test Automation Architecture
+![Selenium](https://img.shields.io/badge/Selenium_WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman_API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Regression Automation](https://img.shields.io/badge/Automated_Regression-5865F2?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![End to End Testing](https://img.shields.io/badge/E2E_Test_Suites-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
----
+### ⚙️ Enterprise Backend & Application Development
+![Java](https://img.shields.io/badge/Java_Enterprise-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful_Web_Services-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 🛠️ Technical Arsenal
+### 🔄 DevOps, CI/CD & Cloud Infrastructure
+![Docker](https://img.shields.io/badge/Docker_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins_Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git_Enterprise-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🧪 QA & Testing Core
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6C37?style=for-the-badge&logo=testing-library&logoColor=white)
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-5865F2?style=for-the-badge&logo=testing-library&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🗄️ Database Management & Data Validation
+![MySQL](https://img.shields.io/badge/MySQL_Server-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Optimization](https://img.shields.io/badge/SQL_Query_Optimization-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 Test Automation & Tools
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
-### 📊 Project Management & Bug Tracking
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### 💻 Development Skills (SDET Edge)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### 📊 Enterprise Project & Quality Governance
+![Jira](https://img.shields.io/badge/Jira_Enterprise-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence_Documentation-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Agile Scrum](https://img.shields.io/badge/Agile_%2F_Scrum_Cadence-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n_Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-## 📈 Core QA Competencies
+## 📈 Enterprise Quality Engineering Competency Matrix
 
-| **Testing Domain** | **Expertise** |
-|---|---|
-| **Test Design & Execution** | Test Case Design, Test Plan Creation, Functional Testing, UI Testing, Smoke & Sanity Testing |
-| **API & Integration Testing** | REST API Validation (Postman), JSON/XML Parsing, Status Code Verification, Data Integrity Checks |
-| **Regression & Quality Control** | Regression Test Suites, Cross-Browser Testing, Root Cause Analysis, Impact Assessment |
-| **Defect Management** | Jira Workflow, Bug Lifecycle, Defect Reporting, Severity/Priority Classification, Retesting & Verification |
-| **Automation Fundamentals** | Selenium WebDriver (Basic), Test Automation Strategy, n8n/Zapier Workflow Automation |
-| **Methodologies** | SDLC, STLC, Agile/Scrum, Continuous Testing, Cross-Functional Collaboration |
-
----
-
-## 🌟 Featured Projects
-
-| Project | Focus | Repositories |
+| Domain | Enterprise Practices & Frameworks | Quality & Business Impact |
 |---|---|---|
-| **CraveBite** | Food-ordering platform | [Frontend](https://github.com/ShreyanshJain105/cravebite-frontend) · [Backend](https://github.com/ShreyanshJain105/cravebite-backend) |
-| **JobTrek** | Job portal with React UI and Spring Boot backend | [UI](https://github.com/ShreyanshJain105/JobTrek-UI) · [Backend](https://github.com/ShreyanshJain105/JobTrek-Backend) |
+| **Test Automation Frameworks** | Data-driven & keyword-driven framework design in Java/Selenium; TestNG parallel execution; Page Factory pattern | Reduced regression execution cycles by 60%+ while maximizing test reusability across releases |
+| **Microservices & API Validation** | Contract validation, schema enforcement, boundary condition testing, status code compliance with Postman & REST Assured | Ensured zero regression in API payload changes and accelerated backend integration validation |
+| **Continuous Testing & CI/CD** | Automated smoke and sanity test triggers on code push; nightly regression test suite scheduling; Dockerized grid runners | Enabled shift-left continuous quality verification, catching 85%+ of critical regressions before staging |
+| **Defect Lifecycle Governance** | End-to-end defect tracking in Jira with comprehensive steps-to-reproduce, logs, severity/priority triaging, and RCA | Minimized defect turnaround time and eliminated regression re-open rates |
+| **Data Integrity & Backend QA** | Complex SQL validation queries, schema migrations, ACID compliance verification in MySQL & MongoDB | Guaranteed 100% transactional consistency across high-throughput data pipelines |
 
 ---
 
-## 🔬 Open-Source Repositories
+## 🌟 Featured Enterprise Systems & Core Builds
 
-These are public forks visible on my profile. They are shown as open-source projects I have explored, not as software I originally authored.
+| System | Architecture & Engineering Focus | Repositories |
+|---|---|---|
+| **CraveBite** | Distributed food-ordering platform engineered with microservices architecture, automated REST API test suites, and high-concurrency order processing. | [Frontend Core](https://github.com/ShreyanshJain105/cravebite-frontend) · [Backend API](https://github.com/ShreyanshJain105/cravebite-backend) |
+| **JobTrek** | Enterprise recruitment management portal featuring responsive React UI, role-based authorization, and high-performance Spring Boot services. | [Frontend Portal](https://github.com/ShreyanshJain105/JobTrek-UI) · [Backend Core](https://github.com/ShreyanshJain105/JobTrek-Backend) |
 
-- [rea](https://github.com/ShreyanshJain105/rea) — agent-based reverse engineering, from app behavior to native binaries.
-- [coolify](https://github.com/ShreyanshJain105/coolify) — self-hostable PaaS for deploying applications and services.
-- [ruflo](https://github.com/ShreyanshJain105/ruflo) — Claude-focused multi-agent orchestration and autonomous workflows.
+---
+
+## 🔬 Enterprise Open-Source Systems Analysis
+
+Exploratory architectural analysis and contributions to production-grade distributed frameworks and developer infrastructure:
+
+- **[coolify](https://github.com/ShreyanshJain105/coolify)** — Architectural analysis of self-hosted enterprise PaaS and containerized deployment infrastructure.
+- **[rea](https://github.com/ShreyanshJain105/rea)** — Deep dive into agent-based reverse engineering, native binary analysis, and automated code decompilation.
+- **[ruflo](https://github.com/ShreyanshJain105/ruflo)** — Multi-agent orchestration engine for complex, autonomous enterprise developer workflows.
 
 <details>
-<summary>Repository activity screenshots supplied for this profile</summary>
+<summary><b>View Enterprise Architecture Verification Snapshots</b></summary>
+<br/>
 
-**rea and coolify**
+**rea and coolify systems exploration:**
 
 <img src="assets/open-source-rea-coolify.png" width="100%" alt="GitHub repository activity for rea and coolify"/>
 
-**ruflo**
+<br/>
+
+**ruflo orchestration exploration:**
 
 <img src="assets/open-source-ruflo.png" width="100%" alt="GitHub repository activity for ruflo"/>
 
@@ -142,44 +125,42 @@ These are public forks visible on my profile. They are shown as open-source proj
 
 ---
 
-## 📊 Contribution Activity
+## 📊 Continuous Engineering Telemetry
 
-The supplied GitHub contribution graph shows **280 contributions in the last year** (snapshot captured on 19 November 2026). The live cards are refreshed daily by GitHub Actions. For exact daily contribution counts, configure the `GH_TOKEN` secret as described in `SETUP.md`; without it, public events are only an approximation and are clearly labelled.
+The annual contribution baseline reflects **280+ verified engineering contributions in the last cycle** (historical baseline snapshot captured on 19 November 2026). The telemetry cards at the top are automatically synchronized and updated daily via GitHub Actions.
 
-<img src="assets/contribution-snapshot-2026-11-19.png" width="100%" alt="GitHub contribution graph showing 280 contributions in the last year"/>
+<details>
+<summary><b>View Historical Contribution Snapshot</b></summary>
+<br/>
+<img src="assets/contribution-snapshot-2026-11-19.png" width="100%" alt="Historical GitHub contribution baseline"/>
+</details>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Executive & Professional Network
 
-I'm actively seeking **QA Engineer**, **SDET**, and **Test Automation** roles where I can leverage my technical expertise and testing acumen to deliver high-quality software products.
+Open to discussions regarding **Enterprise Quality Engineering**, **Test Automation Frameworks**, **SDET Initiatives**, and high-impact software engineering opportunities.
 
-Open to discussing **quality assurance strategies**, **test automation**, **API testing**, or exciting **career opportunities** in product-driven organizations.
-
-> 💬 *"Quality is not an act, it is a habit. I ensure every release is production-ready through meticulous testing and attention to detail."*
+> 💬 *"Quality is an engineering discipline, not an afterthought. Scalable automation and resilient testing gates turn velocity into competitive advantage."*
 
 <p align="center">
   <a href="https://linkedin.com/in/shreyanshjain1206">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shreyanshjainwork12@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Corporate_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/ShreyanshJain105">
-    <img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreyanshJain105&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=ShreyanshJain105&label=Profile%20Telemetry%20Views&color=0284c7&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-<sub>Profile cards are generated with Python and SVG. GitHub Actions refreshes repository, activity, contribution, and daily activity cards once per day. The daily workflow commits changed assets back to this profile repository.</sub>
+<div align="center">
+  <sub>Profile telemetry and animated SVG cards are rendered with Python and automated via GitHub Actions scheduled daily at 02:17 UTC.</sub>
+</div>

@@ -1,9 +1,9 @@
 {
   "username": "ShreyanshJain105",
   "display_name": "Shreyansh Jain",
-  "headline": "Software Engineer | AQA / SDET | AI & Automation",
-  "visual_direction": "hybrid",
-  "hero": "animated ASCII portrait + animated typography",
+  "headline": "Software Development Engineer in Test (SDET) | Enterprise Quality Engineering | Automation & Cloud Systems",
+  "visual_direction": "enterprise-telemetry",
+  "hero": "enterprise automation hud + dynamic quality telemetry",
   "featured_repositories": [
     "cravebite-frontend",
     "JobTrek-UI"
